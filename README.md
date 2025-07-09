@@ -16,9 +16,11 @@ Independent Examination – Initial Vector of Compromise
  ![image](https://github.com/user-attachments/assets/593c6ece-17d3-4c91-900b-a205767f605e)
 
 On log 7874, we see a successful sign on.
+
  ![image](https://github.com/user-attachments/assets/5858a350-b944-43f2-92d7-4b6a0149c80a)
 
 We see that the account belongs to JSmith
+
  ![image](https://github.com/user-attachments/assets/b4886709-cc2c-4d3f-9903-5e751cf98a32)
 
 And it’s by our attacker.
